@@ -1,0 +1,6 @@
+COORDINATES_FILE = "coordinates.txt"
+
+WALK_SPEED = 5
+VISIT_TIME = 30
+
+START_POSITION = (0, 0)
